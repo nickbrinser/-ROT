@@ -3,57 +3,57 @@ print ciphertext
 
 for letter in ciphertext:
     if letter == 'a':
-        print 'z'
+        print 'n'
     elif letter == 'b':
-        print 'y'
+        print 'o'
     elif letter == 'c':
-        print 'x'
+        print 'p'
     elif letter == 'd':
-        print 'w'
+        print 'q'
     elif letter == 'e':
-        print 'v'
+        print 'r'
     elif letter == 'f':
-        print 'u'
+        print 's'
     elif letter == 'g':
         print 't'
     elif letter == 'h':
-        print 's'
+        print 'u'
     elif letter == 'i':
-        print 'r'
+        print 'v'
     elif letter == 'j':
-        print 'q'
+        print 'w'
     elif letter == 'k':
-        print 'p'
+        print 'x'
     elif letter == 'l':
-        print 'o'
+        print 'y'
     elif letter == 'm':
-        print 'n'
+        print 'z'
     elif letter == 'n':
-        print 'm'
+        print 'a'
     elif letter == 'o':
-        print 'l'
+        print 'b'
     elif letter == 'p':
-        print 'k'
+        print 'c'
     elif letter == 'q':
-        print 'j'
+        print 'd'
     elif letter == 'r':
-        print 'i'
+        print 'e'
     elif letter == 's':
-        print 'h'
+        print 'f'
     elif letter == 't':
         print 'g'
     elif letter == 'u':
-        print 'f'
+        print 'h'
     elif letter == 'v':
-        print 'e'
+        print 'i'
     elif letter == 'w':
-        print 'd'
+        print 'j'
     elif letter == 'x':
-        print 'c'
+        print 'k'
     elif letter == 'y':
-        print 'b'
+        print 'l'
     elif letter == 'z':
-        print 'a'
+        print 'm'
     elif letter == '1':
         print '4'
     elif letter == '2':
